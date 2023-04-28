@@ -66,3 +66,10 @@ About the output picture (screenshot of command-line interface):
 3. Results
 The serial code achieved around 95% accuracy for both train and test data. The accuracies changed like the following graph and picture. 
 
+<p align="center">
+  <img src="./images/accuracy_change.png" width="600" alt="accuracy_change">
+  <img src="./images/raw_output.png" width="250" alt="raw_output">
+</p>
+
+
+
