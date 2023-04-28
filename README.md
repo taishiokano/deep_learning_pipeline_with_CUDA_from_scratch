@@ -51,17 +51,17 @@ L9  end
 
 ## Sample Results
 1. Setting
-  - Number of layers: 2 (Except for input and output layers)
-  - Number of units in each layer: 30
-  - Number of training epochs: 10000
-  - Number of training samples per batch: 300
-  - Learning Rate: 0.10
-  - Activation & cost functions at output layer: Softmax + Cross-Entropy
+    - Number of layers: 2 (Except for input and output layers)
+    - Number of units in each layer: 30
+    - Number of training epochs: 10000
+    - Number of training samples per batch: 300
+    - Learning Rate: 0.10
+    - Activation & cost functions at output layer: Softmax + Cross-Entropy
 
 2. Notes
 About the output picture (screenshot of command-line interface):
-  - “Train:” means the accuracy which is calculated with train data and updated weights/biases.
-  - “Test:” means the accuracy which is calculated with test data and updated weights/biases.
+    - “Train:” means the accuracy which is calculated with train data and updated weights/biases.
+    - “Test:” means the accuracy which is calculated with test data and updated weights/biases.
 
 3. Results
 The serial code achieved around 95% accuracy for both train and test data. The accuracies changed like the following graph and picture. 
